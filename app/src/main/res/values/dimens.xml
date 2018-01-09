@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="reset_layout_marginBottom">10dp</dimen>
+    <dimen name="button_layout_marginBottom">8dp</dimen>
+    <dimen name="button_layout_marginLeft">24dp</dimen>
+    <dimen name="button_layout_marginRight">24dp</dimen>
+    <dimen name="scoreTextSize">56dp</dimen>
+    <dimen name="scorePadding">10dp</dimen>
+    <dimen name="textSize">14dp</dimen>
+    <dimen name="textPadding">16dp</dimen>
+    <dimen name="viewMarginTop">16dp</dimen>
+</resources>
+
