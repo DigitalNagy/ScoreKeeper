@@ -6,9 +6,9 @@
     <dimen name="button_layout_marginBottom">8dp</dimen>
     <dimen name="button_layout_marginLeft">24dp</dimen>
     <dimen name="button_layout_marginRight">24dp</dimen>
-    <dimen name="scoreTextSize">56dp</dimen>
+    <dimen name="scoreTextSize">56sp</dimen>
     <dimen name="scorePadding">10dp</dimen>
-    <dimen name="textSize">14dp</dimen>
+    <dimen name="textSize">14sp</dimen>
     <dimen name="textPadding">16dp</dimen>
     <dimen name="viewMarginTop">16dp</dimen>
 </resources>
