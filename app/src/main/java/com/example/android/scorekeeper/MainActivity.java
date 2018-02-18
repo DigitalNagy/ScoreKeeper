@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * Displays the given score for Timon.
      */
-    public void displayForTimon(int score) {
+    private void displayForTimon(int score) {
         TextView scoreView = (TextView) findViewById(R.id.timon_score);
         scoreView.setText(String.valueOf(score));
     }
@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * Displays the given score for Pumbaa.
      */
-    public void displayForPumbaa(int score) {
+    private void displayForPumbaa(int score) {
         TextView scoreView = (TextView) findViewById(R.id.pumbaa_score);
         scoreView.setText(String.valueOf(score));
     }
